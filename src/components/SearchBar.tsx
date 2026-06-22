@@ -7,9 +7,10 @@ interface SearchBarProps {
   value: string;
   onChangeText: (value: string) => void;
   placeholder?: string;
+  autoFocus?: boolean;
 }
 
-export function SearchBar({ value, onChangeText, placeholder = '산 이름 검색' }: SearchBarProps) {
+export function SearchBar({ value, onChangeText, placeholder = '산 이름 검색', autoFocus }: SearchBarProps) {
   return (
     <View style={styles.container}>
       <Ionicons name="search" size={20} color={colors.muted} />
@@ -21,6 +22,7 @@ export function SearchBar({ value, onChangeText, placeholder = '산 이름 검�
         placeholderTextColor={colors.muted}
         style={styles.input}
         returnKeyType="search"
+        autoFocus={autoFocus}
       />
       {value.length > 0 && (
         <Pressable accessibilityLabel="검색어 지우기" onPress={() => onChangeText('')}>

@@ -1,6 +1,7 @@
 import { Ionicons } from '@expo/vector-icons';
 import { router } from 'expo-router';
 import { Alert, Pressable, StyleSheet, Text, View } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { AppButton } from '@/components/ui/AppButton';
 import { useApp } from '@/context/AppContext';
@@ -11,6 +12,7 @@ import { formatKoreanDate } from '@/utils/dateFormatUtils';
 
 export function MountainBottomSheet({ mountain, onClose }: { mountain: MountainWithProgress; onClose: () => void }) {
   const { refresh } = useApp();
+  const insets = useSafeAreaInsets();
   const stamp = () => {
     Alert.alert('도장을 찍을까요?', `${mountain.nameKo} 완등 기록이 오늘 날짜로 저장돼요.`, [
       { text: '취소', style: 'cancel' },
@@ -31,7 +33,7 @@ export function MountainBottomSheet({ mountain, onClose }: { mountain: MountainW
     ]);
   };
   return (
-    <View style={[styles.card, shadow]}>
+    <View style={[styles.card, { bottom: Math.max(insets.bottom, spacing.md) }, shadow]}>
       <View style={styles.handle} />
       <Pressable accessibilityLabel="산 정보 닫기" onPress={onClose} style={styles.close}>
         <Ionicons name="close" size={21} color={colors.muted} />
@@ -62,7 +64,7 @@ export function MountainBottomSheet({ mountain, onClose }: { mountain: MountainW
 }
 
 const styles = StyleSheet.create({
-  card: { position: 'absolute', left: spacing.md, right: spacing.md, bottom: spacing.md, backgroundColor: colors.paper, borderRadius: radius.lg, padding: spacing.lg, gap: spacing.md },
+  card: { position: 'absolute', left: spacing.md, right: spacing.md, backgroundColor: colors.paper, borderRadius: radius.lg, padding: spacing.lg, gap: spacing.md },
   handle: { alignSelf: 'center', width: 38, height: 4, borderRadius: 2, backgroundColor: colors.line, marginTop: -4 },
   close: { position: 'absolute', top: spacing.md, right: spacing.md, padding: spacing.xs },
   titleRow: { flexDirection: 'row', alignItems: 'center', gap: spacing.md, paddingRight: spacing.xl },

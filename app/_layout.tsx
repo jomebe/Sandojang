@@ -17,6 +17,8 @@ function RootNavigator() {
       <StatusBar style="dark" />
       <Stack screenOptions={{ headerStyle: { backgroundColor: colors.paper }, headerTintColor: colors.ink, headerTitleStyle: { fontWeight: '900' }, headerShadowVisible: false, contentStyle: { backgroundColor: colors.paper } }}>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        <Stack.Screen name="discover" options={{ title: '산 찾기' }} />
+        <Stack.Screen name="map/[id]" options={{ title: '산 위치' }} />
         <Stack.Screen name="mountain/[id]" options={{ title: '산 상세' }} />
         <Stack.Screen name="record/new" options={{ title: '등산 기록 추가', presentation: 'modal' }} />
         <Stack.Screen name="record/[id]" options={{ title: '등산 기록 수정', presentation: 'modal' }} />
