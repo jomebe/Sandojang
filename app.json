@@ -22,17 +22,57 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#F4EFE3"
       },
-      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION", "POST_NOTIFICATIONS"]
+      "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.POST_NOTIFICATIONS"
+      ]
     },
     "plugins": [
       "expo-router",
       "expo-sqlite",
-      ["expo-splash-screen", {"image": "./assets/splash-icon.png", "imageWidth": 180, "resizeMode": "contain", "backgroundColor": "#FCFAF4", "dark": {"backgroundColor": "#101512"}}],
-      ["expo-location", {"locationWhenInUsePermission": "현재 위치와 정상까지의 거리를 확인하고 GPS 도장을 인증하는 데 사용합니다."}],
-      ["expo-image-picker", {"photosPermission": "등산 기록에 사진을 추가하는 데 사용합니다."}],
-      ["expo-notifications", {"defaultChannel": "등산 진행 알림"}],
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 180,
+          "resizeMode": "contain",
+          "backgroundColor": "#FCFAF4",
+          "dark": {
+            "backgroundColor": "#101512"
+          }
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "현재 위치와 정상까지의 거리를 확인하고 GPS 도장을 인증하는 데 사용합니다."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "등산 기록에 사진을 추가하는 데 사용합니다.",
+          "microphonePermission": false
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "defaultChannel": "등산 진행 알림"
+        }
+      ],
       "expo-document-picker"
     ],
-    "experiments": {"typedRoutes": true}
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "fa17fc07-c6e7-4936-bffb-efbfbe4f0dbc"
+      }
+    },
+    "owner": "jombee"
   }
 }
