@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "osm-node-991644507",
+    "nameKo": "1435봉",
+    "region": "충청권",
+    "altitudeMeters": 1442,
+    "latitude": 35.327492,
+    "longitude": 127.6501936,
+    "description": "OpenStreetMap에 등록된 1442m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444311090",
+    "nameKo": "1474봉",
+    "region": "충청권",
+    "altitudeMeters": 1477,
+    "latitude": 35.318666,
+    "longitude": 127.6051879,
+    "description": "OpenStreetMap에 등록된 1477m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-991643126",
+    "nameKo": "1542봉",
+    "region": "충청권",
+    "altitudeMeters": 1551,
+    "latitude": 35.3247393,
+    "longitude": 127.6076089,
+    "description": "OpenStreetMap에 등록된 1551m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442863042",
+    "nameKo": "319봉",
+    "region": "대한민국",
+    "altitudeMeters": 320,
+    "latitude": 37.3757206,
+    "longitude": 126.8952038,
+    "description": "OpenStreetMap에 등록된 320m 높이의 산이에요."
+  },
+  {
+    "id": "gayasan",
+    "nameKo": "가야산",
+    "region": "경상남도",
+    "altitudeMeters": 1433,
+    "latitude": 35.8229,
+    "longitude": 128.1205,
+    "description": "경상남도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-446001452",
+    "nameKo": "가학산",
+    "region": "수도권",
+    "altitudeMeters": 220,
+    "latitude": 37.4279921,
+    "longitude": 126.8673018,
+    "description": "OpenStreetMap에 등록된 220m 높이의 산이에요."
+  },
+  {
+    "id": "gamaksan",
+    "nameKo": "감악산",
+    "region": "경기도",
+    "altitudeMeters": 675,
+    "latitude": 37.9415,
+    "longitude": 126.969,
+    "description": "경기도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444271112",
+    "nameKo": "감투봉",
+    "region": "충청권",
+    "altitudeMeters": 753,
+    "latitude": 35.326858,
+    "longitude": 127.8522906,
+    "description": "OpenStreetMap에 등록된 753m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1007601210",
+    "nameKo": "거사봉",
+    "region": "충청권",
+    "altitudeMeters": 1133,
+    "latitude": 35.2247225,
+    "longitude": 127.7012775,
+    "description": "OpenStreetMap에 등록된 1133m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-446003587",
+    "nameKo": "검단산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 658,
+    "latitude": 37.5176552,
+    "longitude": 127.2493539,
+    "description": "OpenStreetMap에 등록된 658m 높이의 산이에요."
+  },
+  {
+    "id": "gyeryongsan",
+    "nameKo": "계룡산",
+    "region": "충청남도",
+    "altitudeMeters": 845,
+    "latitude": 36.3424,
+    "longitude": 127.2052,
+    "description": "충청남도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444256152",
+    "nameKo": "고리봉",
+    "region": "충청권",
+    "altitudeMeters": 1309,
+    "latitude": 35.3701857,
+    "longitude": 127.5253701,
+    "description": "OpenStreetMap에 등록된 1309m 높이의 산이에요."
+  },
+  {
+    "id": "gwanaksan",
+    "nameKo": "관악산",
+    "region": "서울특별시",
+    "altitudeMeters": 632,
+    "latitude": 37.445,
+    "longitude": 126.9641,
+    "description": "서울특별시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-414698735",
+    "nameKo": "관음봉",
+    "region": "충청권",
+    "altitudeMeters": 771,
+    "latitude": 36.3520094,
+    "longitude": 127.2003502,
+    "description": "OpenStreetMap에 등록된 771m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-445993704",
+    "nameKo": "광교산",
+    "region": "대한민국",
+    "altitudeMeters": 582,
+    "latitude": 37.3449403,
+    "longitude": 127.0344434,
+    "description": "OpenStreetMap에 등록된 582m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1014151281",
+    "nameKo": "구룡봉",
+    "region": "충청권",
+    "altitudeMeters": 729,
+    "latitude": 35.4034443,
+    "longitude": 127.4860316,
+    "description": "OpenStreetMap에 등록된 729m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-446001324",
+    "nameKo": "구름산",
+    "region": "수도권",
+    "altitudeMeters": 251,
+    "latitude": 37.4406831,
+    "longitude": 126.8661594,
+    "description": "OpenStreetMap에 등록된 251m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-538153124",
+    "nameKo": "구정봉",
+    "region": "전라권",
+    "altitudeMeters": 706,
+    "latitude": 34.7616529,
+    "longitude": 126.6939625,
+    "description": "OpenStreetMap에 등록된 706m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442863913",
+    "nameKo": "국사봉",
+    "region": "대한민국",
+    "altitudeMeters": 540,
+    "latitude": 37.4040898,
+    "longitude": 127.043771,
+    "description": "OpenStreetMap에 등록된 540m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444197740",
+    "nameKo": "귀때기청봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1581,
+    "latitude": 38.1207863,
+    "longitude": 128.3982567,
+    "description": "OpenStreetMap에 등록된 1581m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-448093385",
+    "nameKo": "금수봉",
+    "region": "충청권",
+    "altitudeMeters": 532,
+    "latitude": 36.328917,
+    "longitude": 127.280978,
+    "description": "OpenStreetMap에 등록된 532m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-904944669",
+    "nameKo": "금오봉",
+    "region": "경상권",
+    "altitudeMeters": 468,
+    "latitude": 35.7887876,
+    "longitude": 129.2228175,
+    "description": "OpenStreetMap에 등록된 468m 높이의 산이에요."
+  },
+  {
+    "id": "geumjeongsan",
+    "nameKo": "금정산",
+    "region": "부산광역시",
+    "altitudeMeters": 801,
+    "latitude": 35.2831,
+    "longitude": 129.0556,
+    "description": "부산광역시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-1007607622",
+    "nameKo": "기산",
+    "region": "충청권",
+    "altitudeMeters": 612,
+    "latitude": 35.4009718,
+    "longitude": 127.8592394,
+    "description": "OpenStreetMap에 등록된 612m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442862976",
+    "nameKo": "꼬깔봉",
+    "region": "대한민국",
+    "altitudeMeters": 449,
+    "latitude": 37.3581555,
+    "longitude": 126.8978911,
+    "description": "OpenStreetMap에 등록된 449m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-288169256",
+    "nameKo": "남산",
+    "region": "수도권",
+    "altitudeMeters": 267,
+    "latitude": 37.5524374,
+    "longitude": 126.988433,
+    "description": "OpenStreetMap에 등록된 267m 높이의 산이에요."
+  },
+  {
+    "id": "naejangsan",
+    "nameKo": "내장산",
+    "region": "전북특별자치도",
+    "altitudeMeters": 763,
+    "latitude": 35.4785,
+    "longitude": 126.889,
+    "description": "전북특별자치도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-442863040",
+    "nameKo": "너구리산",
+    "region": "대한민국",
+    "altitudeMeters": 309,
+    "latitude": 37.3478272,
+    "longitude": 126.8878448,
+    "description": "OpenStreetMap에 등록된 309m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-446004144",
+    "nameKo": "노적산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 376,
+    "latitude": 37.4636905,
+    "longitude": 127.2380973,
+    "description": "OpenStreetMap에 등록된 376m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444223898",
+    "nameKo": "달마봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 676,
+    "latitude": 38.1828954,
+    "longitude": 128.4984039,
+    "description": "OpenStreetMap에 등록된 676m 높이의 산이에요."
+  },
+  {
+    "id": "daedunsan",
+    "nameKo": "대둔산",
+    "region": "충청남도",
+    "altitudeMeters": 878,
+    "latitude": 36.1217,
+    "longitude": 127.3206,
+    "description": "충청남도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444256478",
+    "nameKo": "덕두산",
+    "region": "충청권",
+    "altitudeMeters": 1153,
+    "latitude": 35.4311509,
+    "longitude": 127.5835118,
+    "description": "OpenStreetMap에 등록된 1153m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1014149956",
+    "nameKo": "덕운봉",
+    "region": "충청권",
+    "altitudeMeters": 748,
+    "latitude": 35.4075677,
+    "longitude": 127.4957927,
+    "description": "OpenStreetMap에 등록된 748m 높이의 산이에요."
+  },
+  {
+    "id": "deogyusan",
+    "nameKo": "덕유산",
+    "region": "전북특별자치도",
+    "altitudeMeters": 1614,
+    "latitude": 35.8606,
+    "longitude": 127.7463,
+    "description": "전북특별자치도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-991645154",
+    "nameKo": "덕평봉",
+    "region": "충청권",
+    "altitudeMeters": 1522,
+    "latitude": 35.3230499,
+    "longitude": 127.6614924,
+    "description": "OpenStreetMap에 등록된 1522m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-448093748",
+    "nameKo": "도덕봉",
+    "region": "충청권",
+    "altitudeMeters": 534,
+    "latitude": 36.3490253,
+    "longitude": 127.277865,
+    "description": "OpenStreetMap에 등록된 534m 높이의 산이에요."
+  },
+  {
+    "id": "dobongsan",
+    "nameKo": "도봉산",
+    "region": "서울특별시",
+    "altitudeMeters": 740,
+    "latitude": 37.6983,
+    "longitude": 127.0154,
+    "description": "서울특별시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444330528",
+    "nameKo": "도솔봉",
+    "region": "충청권",
+    "altitudeMeters": 1320,
+    "latitude": 36.8682376,
+    "longitude": 128.4424826,
+    "description": "OpenStreetMap에 등록된 1320m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-568981970",
+    "nameKo": "독자봉",
+    "region": "제주특별자치도",
+    "altitudeMeters": 150,
+    "latitude": 33.3880033,
+    "longitude": 126.8535524,
+    "description": "OpenStreetMap에 등록된 150m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-446003814",
+    "nameKo": "두리봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 579,
+    "latitude": 37.5032309,
+    "longitude": 127.2532651,
+    "description": "OpenStreetMap에 등록된 579m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-551009324",
+    "nameKo": "두산봉",
+    "region": "제주특별자치도",
+    "altitudeMeters": 101,
+    "latitude": 33.4813261,
+    "longitude": 126.8835846,
+    "description": "OpenStreetMap에 등록된 101m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1007608039",
+    "nameKo": "마근담봉",
+    "region": "충청권",
+    "altitudeMeters": 924,
+    "latitude": 35.32452,
+    "longitude": 127.867843,
+    "description": "OpenStreetMap에 등록된 924m 높이의 산이에요."
+  },
+  {
+    "id": "manisan",
+    "nameKo": "마니산",
+    "region": "인천광역시",
+    "altitudeMeters": 472,
+    "latitude": 37.6127,
+    "longitude": 126.4354,
+    "description": "인천광역시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-442863770",
+    "nameKo": "매봉",
+    "region": "대한민국",
+    "altitudeMeters": 369,
+    "latitude": 37.4139375,
+    "longitude": 127.0134044,
+    "description": "OpenStreetMap에 등록된 369m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-736423455",
+    "nameKo": "매봉산",
+    "region": "충청권",
+    "altitudeMeters": 144,
+    "latitude": 36.3815323,
+    "longitude": 127.3718408,
+    "description": "OpenStreetMap에 등록된 144m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-990950207",
+    "nameKo": "명선봉",
+    "region": "충청권",
+    "altitudeMeters": 1589,
+    "latitude": 35.3280357,
+    "longitude": 127.6127152,
+    "description": "OpenStreetMap에 등록된 1589m 높이의 산이에요."
+  },
+  {
+    "id": "myeongjisan",
+    "nameKo": "명지산",
+    "region": "경기도",
+    "altitudeMeters": 1267,
+    "latitude": 37.9425,
+    "longitude": 127.4328,
+    "description": "경기도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-445998652",
+    "nameKo": "모락산",
+    "region": "대한민국",
+    "altitudeMeters": 385,
+    "latitude": 37.3705094,
+    "longitude": 126.9786473,
+    "description": "OpenStreetMap에 등록된 385m 높이의 산이에요."
+  },
+  {
+    "id": "mudeungsan",
+    "nameKo": "무등산",
+    "region": "광주광역시",
+    "altitudeMeters": 1187,
+    "latitude": 35.1188,
+    "longitude": 127.0028,
+    "description": "광주광역시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-445993481",
+    "nameKo": "바라산",
+    "region": "대한민국",
+    "altitudeMeters": 428,
+    "latitude": 37.36872,
+    "longitude": 127.0270998,
+    "description": "OpenStreetMap에 등록된 428m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444256473",
+    "nameKo": "바래봉",
+    "region": "충청권",
+    "altitudeMeters": 1187,
+    "latitude": 35.4216041,
+    "longitude": 127.5761046,
+    "description": "OpenStreetMap에 등록된 1187m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444313796",
+    "nameKo": "반야봉",
+    "region": "충청권",
+    "altitudeMeters": 1732,
+    "latitude": 35.3163058,
+    "longitude": 127.5694995,
+    "description": "OpenStreetMap에 등록된 1732m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-445993581",
+    "nameKo": "백운산",
+    "region": "대한민국",
+    "altitudeMeters": 567,
+    "latitude": 37.3535546,
+    "longitude": 127.0170061,
+    "description": "OpenStreetMap에 등록된 567m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1032980236",
+    "nameKo": "봉애산",
+    "region": "충청권",
+    "altitudeMeters": 611,
+    "latitude": 35.2194693,
+    "longitude": 127.5817233,
+    "description": "OpenStreetMap에 등록된 611m 높이의 산이에요."
+  },
+  {
+    "id": "bukhansan",
+    "nameKo": "북한산",
+    "region": "서울특별시",
+    "altitudeMeters": 836,
+    "latitude": 37.6587,
+    "longitude": 126.9779,
+    "description": "서울특별시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-1003291176",
+    "nameKo": "분지봉",
+    "region": "충청권",
+    "altitudeMeters": 628,
+    "latitude": 35.1096693,
+    "longitude": 127.7272411,
+    "description": "OpenStreetMap에 등록된 628m 높이의 산이에요."
+  },
+  {
+    "id": "buramsan",
+    "nameKo": "불암산",
+    "region": "서울특별시",
+    "altitudeMeters": 510,
+    "latitude": 37.6649,
+    "longitude": 127.0958,
+    "description": "서울특별시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444326662",
+    "nameKo": "비로봉",
+    "region": "충청권",
+    "altitudeMeters": 1439,
+    "latitude": 36.9574928,
+    "longitude": 128.4848972,
+    "description": "OpenStreetMap에 등록된 1439m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444221477",
+    "nameKo": "비선대",
+    "region": "강원특별자치도",
+    "altitudeMeters": 320,
+    "latitude": 38.163629,
+    "longitude": 128.466914,
+    "description": "OpenStreetMap에 등록된 320m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-601998434",
+    "nameKo": "삼각산",
+    "region": "수도권",
+    "altitudeMeters": 343,
+    "latitude": 37.815474,
+    "longitude": 124.6997084,
+    "description": "OpenStreetMap에 등록된 343m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444310715",
+    "nameKo": "삼도봉",
+    "region": "충청권",
+    "altitudeMeters": 1506,
+    "latitude": 35.3087501,
+    "longitude": 127.5774895,
+    "description": "OpenStreetMap에 등록된 1506m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-414698736",
+    "nameKo": "삼불봉",
+    "region": "충청권",
+    "altitudeMeters": 780,
+    "latitude": 36.3614394,
+    "longitude": 127.2103158,
+    "description": "OpenStreetMap에 등록된 780m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1004978324",
+    "nameKo": "삼신봉",
+    "region": "충청권",
+    "altitudeMeters": 1284,
+    "latitude": 35.2642133,
+    "longitude": 127.7051406,
+    "description": "OpenStreetMap에 등록된 1284m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1003291840",
+    "nameKo": "삼신산",
+    "region": "충청권",
+    "altitudeMeters": 1354,
+    "latitude": 35.2609923,
+    "longitude": 127.6972487,
+    "description": "OpenStreetMap에 등록된 1354m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1012071912",
+    "nameKo": "상왕봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1495,
+    "latitude": 37.8088378,
+    "longitude": 128.5557458,
+    "description": "OpenStreetMap에 등록된 1495m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444236501",
+    "nameKo": "서봉",
+    "region": "충청권",
+    "altitudeMeters": 1498,
+    "latitude": 35.7715427,
+    "longitude": 127.6692081,
+    "description": "OpenStreetMap에 등록된 1498m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1007604505",
+    "nameKo": "석대산",
+    "region": "충청권",
+    "altitudeMeters": 535,
+    "latitude": 35.3135344,
+    "longitude": 127.9121757,
+    "description": "OpenStreetMap에 등록된 535m 높이의 산이에요."
+  },
+  {
+    "id": "seoraksan",
+    "nameKo": "설악산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1708,
+    "latitude": 38.119,
+    "longitude": 128.4652,
+    "description": "강원특별자치도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444235816",
+    "nameKo": "설천봉",
+    "region": "충청권",
+    "altitudeMeters": 1522,
+    "latitude": 35.8655764,
+    "longitude": 127.7435117,
+    "description": "OpenStreetMap에 등록된 1522m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-330006952",
+    "nameKo": "성산일출봉",
+    "region": "제주특별자치도",
+    "altitudeMeters": 182,
+    "latitude": 33.4588891,
+    "longitude": 126.9408178,
+    "description": "OpenStreetMap에 등록된 182m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444256238",
+    "nameKo": "세걸산",
+    "region": "충청권",
+    "altitudeMeters": 1222,
+    "latitude": 35.381684,
+    "longitude": 127.5522866,
+    "description": "OpenStreetMap에 등록된 1222m 높이의 산이에요."
+  },
+  {
+    "id": "sobaeksan",
+    "nameKo": "소백산",
+    "region": "충청북도",
+    "altitudeMeters": 1439,
+    "latitude": 36.9574,
+    "longitude": 128.4849,
+    "description": "충청북도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444209863",
+    "nameKo": "소청봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1550,
+    "latitude": 38.124904,
+    "longitude": 128.4566697,
+    "description": "OpenStreetMap에 등록된 1550m 높이의 산이에요."
+  },
+  {
+    "id": "songnisan",
+    "nameKo": "속리산",
+    "region": "충청북도",
+    "altitudeMeters": 1058,
+    "latitude": 36.543,
+    "longitude": 127.87,
+    "description": "충청북도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "suraksan",
+    "nameKo": "수락산",
+    "region": "서울특별시",
+    "altitudeMeters": 638,
+    "latitude": 37.6995,
+    "longitude": 127.0812,
+    "description": "서울특별시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-442862978",
+    "nameKo": "수리봉",
+    "region": "대한민국",
+    "altitudeMeters": 428,
+    "latitude": 37.3586259,
+    "longitude": 126.9054949,
+    "description": "OpenStreetMap에 등록된 428m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442862975",
+    "nameKo": "수암봉",
+    "region": "대한민국",
+    "altitudeMeters": 398,
+    "latitude": 37.3669108,
+    "longitude": 126.8923697,
+    "description": "OpenStreetMap에 등록된 398m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1005303545",
+    "nameKo": "수양산",
+    "region": "충청권",
+    "altitudeMeters": 502,
+    "latitude": 35.2862908,
+    "longitude": 127.861832,
+    "description": "OpenStreetMap에 등록된 502m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442862979",
+    "nameKo": "슬기봉",
+    "region": "대한민국",
+    "altitudeMeters": 419,
+    "latitude": 37.3599494,
+    "longitude": 126.9072115,
+    "description": "OpenStreetMap에 등록된 419m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1007601798",
+    "nameKo": "시루봉",
+    "region": "충청권",
+    "altitudeMeters": 980,
+    "latitude": 35.221461,
+    "longitude": 127.7117286,
+    "description": "OpenStreetMap에 등록된 980m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1005303435",
+    "nameKo": "시무산",
+    "region": "충청권",
+    "altitudeMeters": 402,
+    "latitude": 35.2742367,
+    "longitude": 127.8597924,
+    "description": "OpenStreetMap에 등록된 402m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1003291564",
+    "nameKo": "신선대",
+    "region": "충청권",
+    "altitudeMeters": 903,
+    "latitude": 35.1805435,
+    "longitude": 127.6792719,
+    "description": "OpenStreetMap에 등록된 903m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444211585",
+    "nameKo": "신선봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1231,
+    "latitude": 38.1387927,
+    "longitude": 128.4620203,
+    "description": "OpenStreetMap에 등록된 1231m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1032982695",
+    "nameKo": "써리봉",
+    "region": "충청권",
+    "altitudeMeters": 1642,
+    "latitude": 35.3429873,
+    "longitude": 127.7430088,
+    "description": "OpenStreetMap에 등록된 1642m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444195866",
+    "nameKo": "안산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1436,
+    "latitude": 38.1421613,
+    "longitude": 128.3256525,
+    "description": "OpenStreetMap에 등록된 1436m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-414698737",
+    "nameKo": "연천봉",
+    "region": "충청권",
+    "altitudeMeters": 745,
+    "latitude": 36.3500275,
+    "longitude": 127.1915418,
+    "description": "OpenStreetMap에 등록된 745m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444312648",
+    "nameKo": "연하봉",
+    "region": "충청권",
+    "altitudeMeters": 1713,
+    "latitude": 35.3282503,
+    "longitude": 127.711152,
+    "description": "OpenStreetMap에 등록된 1713m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444312123",
+    "nameKo": "영신봉",
+    "region": "충청권",
+    "altitudeMeters": 1668,
+    "latitude": 35.3194225,
+    "longitude": 127.6888423,
+    "description": "OpenStreetMap에 등록된 1668m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-852509472",
+    "nameKo": "예봉산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 683,
+    "latitude": 37.5591522,
+    "longitude": 127.2611318,
+    "description": "OpenStreetMap에 등록된 683m 높이의 산이에요."
+  },
+  {
+    "id": "odaesan",
+    "nameKo": "오대산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1563,
+    "latitude": 37.7947,
+    "longitude": 128.5437,
+    "description": "강원특별자치도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-442863981",
+    "nameKo": "옥녀봉",
+    "region": "수도권",
+    "altitudeMeters": 370,
+    "latitude": 37.4391855,
+    "longitude": 127.035797,
+    "description": "OpenStreetMap에 등록된 370m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-994343589",
+    "nameKo": "왕산",
+    "region": "충청권",
+    "altitudeMeters": 925,
+    "latitude": 35.4279557,
+    "longitude": 127.8132591,
+    "description": "OpenStreetMap에 등록된 925m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1007608130",
+    "nameKo": "외삼신봉",
+    "region": "충청권",
+    "altitudeMeters": 1288,
+    "latitude": 35.2598758,
+    "longitude": 127.7164415,
+    "description": "OpenStreetMap에 등록된 1288m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-446003924",
+    "nameKo": "용마산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 605,
+    "latitude": 37.4910537,
+    "longitude": 127.2591944,
+    "description": "OpenStreetMap에 등록된 605m 높이의 산이에요."
+  },
+  {
+    "id": "yongmunsan",
+    "nameKo": "용문산",
+    "region": "경기도",
+    "altitudeMeters": 1157,
+    "latitude": 37.5622,
+    "longitude": 127.5485,
+    "description": "경기도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "unaksan",
+    "nameKo": "운악산",
+    "region": "경기도",
+    "altitudeMeters": 936,
+    "latitude": 37.8788,
+    "longitude": 127.3226,
+    "description": "경기도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-1007610505",
+    "nameKo": "웅석봉",
+    "region": "충청권",
+    "altitudeMeters": 1099,
+    "latitude": 35.363662,
+    "longitude": 127.8775089,
+    "description": "OpenStreetMap에 등록된 1099m 높이의 산이에요."
+  },
+  {
+    "id": "woraksan",
+    "nameKo": "월악산",
+    "region": "충청북도",
+    "altitudeMeters": 1097,
+    "latitude": 36.885,
+    "longitude": 128.1057,
+    "description": "충청북도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "yumyeongsan",
+    "nameKo": "유명산",
+    "region": "경기도",
+    "altitudeMeters": 862,
+    "latitude": 37.5753,
+    "longitude": 127.4869,
+    "description": "경기도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444271835",
+    "nameKo": "이방산",
+    "region": "충청권",
+    "altitudeMeters": 718,
+    "latitude": 35.3063797,
+    "longitude": 127.849235,
+    "description": "OpenStreetMap에 등록된 718m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442863915",
+    "nameKo": "이수봉",
+    "region": "대한민국",
+    "altitudeMeters": 558,
+    "latitude": 37.4136483,
+    "longitude": 127.0466807,
+    "description": "OpenStreetMap에 등록된 558m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1014195843",
+    "nameKo": "작은고리봉",
+    "region": "충청권",
+    "altitudeMeters": 1248,
+    "latitude": 35.3197144,
+    "longitude": 127.5133457,
+    "description": "OpenStreetMap에 등록된 1248m 높이의 산이에요."
+  },
+  {
+    "id": "jangsan",
+    "nameKo": "장산",
+    "region": "부산광역시",
+    "altitudeMeters": 634,
+    "latitude": 35.2009,
+    "longitude": 129.163,
+    "description": "부산광역시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444326175",
+    "nameKo": "제1연화봉",
+    "region": "충청권",
+    "altitudeMeters": 1394,
+    "latitude": 36.9474282,
+    "longitude": 128.4627854,
+    "description": "OpenStreetMap에 등록된 1394m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444312745",
+    "nameKo": "제석봉",
+    "region": "충청권",
+    "altitudeMeters": 1814,
+    "latitude": 35.33543,
+    "longitude": 127.72105,
+    "description": "OpenStreetMap에 등록된 1814m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444309626",
+    "nameKo": "종석대",
+    "region": "충청권",
+    "altitudeMeters": 1354,
+    "latitude": 35.2959002,
+    "longitude": 127.5139504,
+    "description": "OpenStreetMap에 등록된 1354m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-994238195",
+    "nameKo": "중봉",
+    "region": "충청권",
+    "altitudeMeters": 1875,
+    "latitude": 35.3423917,
+    "longitude": 127.7335993,
+    "description": "OpenStreetMap에 등록된 1875m 높이의 산이에요."
+  },
+  {
+    "id": "jirisan",
+    "nameKo": "지리산",
+    "region": "경상남도",
+    "altitudeMeters": 1915,
+    "latitude": 35.3369,
+    "longitude": 127.7306,
+    "description": "경상남도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-1014152710",
+    "nameKo": "창암산",
+    "region": "충청권",
+    "altitudeMeters": 924,
+    "latitude": 35.3825113,
+    "longitude": 127.6810355,
+    "description": "OpenStreetMap에 등록된 924m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-307955533",
+    "nameKo": "천왕봉",
+    "region": "충청권",
+    "altitudeMeters": 1918,
+    "latitude": 35.3369536,
+    "longitude": 127.7305907,
+    "description": "OpenStreetMap에 등록된 1918m 높이의 산이에요."
+  },
+  {
+    "id": "cheonggyesan",
+    "nameKo": "청계산",
+    "region": "서울특별시",
+    "altitudeMeters": 618,
+    "latitude": 37.4278,
+    "longitude": 127.0437,
+    "description": "서울특별시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444224895",
+    "nameKo": "청대산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 233,
+    "latitude": 38.1783037,
+    "longitude": 128.5721956,
+    "description": "OpenStreetMap에 등록된 233m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-446004566",
+    "nameKo": "청량산",
+    "region": "수도권",
+    "altitudeMeters": 497,
+    "latitude": 37.4800005,
+    "longitude": 127.176062,
+    "description": "OpenStreetMap에 등록된 497m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444312140",
+    "nameKo": "촛대봉",
+    "region": "충청권",
+    "altitudeMeters": 1715,
+    "latitude": 35.3151944,
+    "longitude": 127.7003829,
+    "description": "OpenStreetMap에 등록된 1715m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-443204531",
+    "nameKo": "축령산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 879,
+    "latitude": 37.7527629,
+    "longitude": 127.333886,
+    "description": "OpenStreetMap에 등록된 879m 높이의 산이에요."
+  },
+  {
+    "id": "chiaksan",
+    "nameKo": "치악산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1288,
+    "latitude": 37.3715,
+    "longitude": 128.0506,
+    "description": "강원특별자치도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444312062",
+    "nameKo": "칠선봉",
+    "region": "충청권",
+    "altitudeMeters": 1560,
+    "latitude": 35.3215335,
+    "longitude": 127.6755972,
+    "description": "OpenStreetMap에 등록된 1560m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444218677",
+    "nameKo": "칠성봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1089,
+    "latitude": 38.1465521,
+    "longitude": 128.4892603,
+    "description": "OpenStreetMap에 등록된 1089m 높이의 산이에요."
+  },
+  {
+    "id": "taebaeksan",
+    "nameKo": "태백산",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1567,
+    "latitude": 37.0956,
+    "longitude": 128.9167,
+    "description": "강원특별자치도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444311071",
+    "nameKo": "토끼봉",
+    "region": "충청권",
+    "altitudeMeters": 1534,
+    "latitude": 35.3136192,
+    "longitude": 127.5957351,
+    "description": "OpenStreetMap에 등록된 1534m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-1032979987",
+    "nameKo": "통꼭봉",
+    "region": "충청권",
+    "altitudeMeters": 905,
+    "latitude": 35.2681478,
+    "longitude": 127.5957588,
+    "description": "OpenStreetMap에 등록된 905m 높이의 산이에요."
+  },
+  {
+    "id": "palgongsan",
+    "nameKo": "팔공산",
+    "region": "대구광역시",
+    "altitudeMeters": 1193,
+    "latitude": 36.0164,
+    "longitude": 128.6954,
+    "description": "대구광역시의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-994343707",
+    "nameKo": "필봉산",
+    "region": "충청권",
+    "altitudeMeters": 858,
+    "latitude": 35.4255529,
+    "longitude": 127.8241971,
+    "description": "OpenStreetMap에 등록된 858m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442877585",
+    "nameKo": "학바위 국기봉",
+    "region": "수도권",
+    "altitudeMeters": 521,
+    "latitude": 37.4398679,
+    "longitude": 126.9587485,
+    "description": "OpenStreetMap에 등록된 521m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442877731",
+    "nameKo": "학우봉",
+    "region": "수도권",
+    "altitudeMeters": 344,
+    "latitude": 37.4310781,
+    "longitude": 126.9296303,
+    "description": "OpenStreetMap에 등록된 344m 높이의 산이에요."
+  },
+  {
+    "id": "hallasan",
+    "nameKo": "한라산",
+    "region": "제주특별자치도",
+    "altitudeMeters": 1947,
+    "latitude": 33.3617,
+    "longitude": 126.5292,
+    "description": "제주특별자치도의 대표 산으로, 산도장에서 완등 기록을 남길 수 있어요."
+  },
+  {
+    "id": "osm-node-444236844",
+    "nameKo": "할미봉",
+    "region": "충청권",
+    "altitudeMeters": 1024,
+    "latitude": 35.7354405,
+    "longitude": 127.6611743,
+    "description": "OpenStreetMap에 등록된 1024m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444235774",
+    "nameKo": "향적봉",
+    "region": "충청권",
+    "altitudeMeters": 1614,
+    "latitude": 35.8600127,
+    "longitude": 127.7465185,
+    "description": "OpenStreetMap에 등록된 1614m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-442881216",
+    "nameKo": "형제봉",
+    "region": "수도권",
+    "altitudeMeters": 458,
+    "latitude": 37.61981,
+    "longitude": 126.9825444,
+    "description": "OpenStreetMap에 등록된 458m 높이의 산이에요."
+  },
+  {
+    "id": "osm-node-444218729",
+    "nameKo": "화채봉",
+    "region": "강원특별자치도",
+    "altitudeMeters": 1333,
+    "latitude": 38.1379894,
+    "longitude": 128.4919237,
+    "description": "OpenStreetMap에 등록된 1333m 높이의 산이에요."
+  }
+]

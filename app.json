@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "산도장",
+    "slug": "sandojang",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "sandojang",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jomebe.sandojang",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "현재 위치와 정상까지의 거리를 확인하고 GPS 도장을 인증하는 데 사용합니다.",
+        "NSPhotoLibraryUsageDescription": "등산 기록에 사진을 추가하는 데 사용합니다."
+      }
+    },
+    "android": {
+      "package": "com.jomebe.sandojang",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F4EFE3"
+      },
+      "permissions": ["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION", "POST_NOTIFICATIONS"]
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      ["expo-splash-screen", {"image": "./assets/splash-icon.png", "imageWidth": 180, "resizeMode": "contain", "backgroundColor": "#FCFAF4", "dark": {"backgroundColor": "#101512"}}],
+      ["expo-location", {"locationWhenInUsePermission": "현재 위치와 정상까지의 거리를 확인하고 GPS 도장을 인증하는 데 사용합니다."}],
+      ["expo-image-picker", {"photosPermission": "등산 기록에 사진을 추가하는 데 사용합니다."}],
+      ["expo-notifications", {"defaultChannel": "등산 진행 알림"}],
+      "expo-document-picker"
+    ],
+    "experiments": {"typedRoutes": true}
+  }
+}
